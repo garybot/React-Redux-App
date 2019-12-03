@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.beers-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.beer-card {
+  width: 24%;
+}
